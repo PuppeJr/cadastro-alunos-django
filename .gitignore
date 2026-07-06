@@ -1,0 +1,22 @@
+# Ambiente virtual (NUNCA suba isso)
+venv/
+env/
+.venv/
+
+# Banco de dados SQLite (não suba, senão seus dados de teste vão para o GitHub)
+db.sqlite3
+
+# Arquivos de cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos de configuração local do VSCode (opcional, mas bom evitar)
+.vscode/
+.idea/
+
+# Variáveis de ambiente (senhas, chaves secretas)
+.env
+*.env
+
+# Arquivos de mídia enviados pelo usuário
+media/
