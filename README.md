@@ -52,7 +52,7 @@ O sistema é auto‑suficiente, utiliza o banco de dados SQLite (embutido) e pod
 ## Funcionalidades
 
 | Operação | Descrição |
-|---|---|
+
 | **📋 Listar Alunos** | Exibe todos os alunos cadastrados em uma tabela ordenada por nome. |
 | **➕ Cadastrar Aluno** | Formulário para inserir nome, e-mail, telefone (opcional) e data de nascimento. |
 | **✏️ Editar Aluno** | Permite atualizar os dados de um aluno existente. |
